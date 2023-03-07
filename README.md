@@ -2,7 +2,7 @@
 
 ## Description
 
-`derive_more` v0.99 stops working with generic.
+`Error` in `derive_more` v0.99 stops working with generic.
 
 ## Steps to reproduce
 
