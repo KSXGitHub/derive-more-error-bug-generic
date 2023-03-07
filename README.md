@@ -2,7 +2,7 @@
 
 ## Description
 
-`Error` in `derive_more` v0.99 stops working with generic.
+`Error` doesn't work with generic.
 
 ## Steps to reproduce
 
@@ -15,7 +15,3 @@ It compiles.
 ## Actual behavior
 
 Some incomprehensible error message appears.
-
-## Workaround
-
-Downgrade `derive_more` to v0.98 to make this code compile.
