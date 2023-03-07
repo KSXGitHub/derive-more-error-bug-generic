@@ -3,5 +3,6 @@ name = "derive-more-error-bug-generic"
 version = "0.1.0"
 edition = "2021"
 
-[dependencies]
-derive_more = "=0.99.17"
+[dependencies.derive_more]
+git = "https://github.com/JelteF/derive_more"
+rev = "ce92a9000262d2870a620db120d29a16118e51b0"
